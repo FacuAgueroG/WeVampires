@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d676284a612c2e4885cc40eb186fb5b, type: 3}
+  m_Name: FodderData
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: Fodder
+  prefab: {fileID: 6294589187175531328, guid: 69663bc8d23b39b439a12d5063467033, type: 3}
+  enemyClass: 0
+  isFlyer: 0
+  populationCost: 1
+  meleeWeight: 0
